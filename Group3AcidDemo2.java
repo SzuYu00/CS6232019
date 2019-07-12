@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+// for MySQL
 public class Group3AcidDemo2 {
 
 	public static void main(String args[]) throws SQLException, IOException, ClassNotFoundException {
